@@ -1,0 +1,6 @@
+data/raw/*
+data/interim/*
+data/processed/*
+!data/raw/.keep
+!data/interim/.keep
+!data/processed/.keep
